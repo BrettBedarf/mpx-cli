@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../lib/mpx');
+require("../lib/mpx");
